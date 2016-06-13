@@ -1,0 +1,13 @@
+gameVersion=20
+binaryVersion=27
+type=10
+str=11620,11600,11652,2557,2986,3396,2589
+diff=-
+len=-
+page=0
+total=0
+uncompleted=0
+featured=0
+original=0
+twoPlayer=0
+secret=Wmfd2893gb7
